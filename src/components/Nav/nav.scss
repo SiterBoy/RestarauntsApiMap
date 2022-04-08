@@ -1,0 +1,11 @@
+.navigation-top{
+  
+  &__list{
+    display: flex;
+    gap:20px;
+
+    a{
+      color:rgb(10, 10, 10);
+    }
+  }
+}
